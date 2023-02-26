@@ -1,0 +1,29 @@
+.mainDiv{
+    border: 1px solid black;
+    width: 600px;
+    height: 650px;
+    position: relative;
+    margin: auto;
+}
+
+h1{
+    color: rgb(102, 102, 227);
+    margin-bottom: 40px;
+}
+
+input{
+    border: 1px solid green;
+    border-radius: 2px;
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+button{
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: rgb(64, 64, 236);
+    color: white;
+    height: 40px;
+}
